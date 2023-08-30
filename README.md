@@ -7,7 +7,7 @@
 - [Text Analysis](#text-analysis)
 - [Image Classification](#image-classification)
 - [Joke Generation](#joke-generation)
-- [Collaboration Simulation](#collaboration-simulation)
+- [Collaboration Simulation](collaboration/collaboration.md)
 
 ## Introduction
 This is an assignment - Text extraction, text analysis, image classification, joke generation, collaboration simulation.
@@ -63,5 +63,3 @@ I trained joke generation model using GPT-2.
 # Collaboration-Simulation
 
 Document a hypothetical situation where an issue arose in your code, and describe how you would collaborate with a teammate to resolve it.
-
-`Collaboration Simulation/solution.docx`
