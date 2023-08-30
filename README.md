@@ -59,6 +59,8 @@ Using any available LLM (like GPT-2 or similar):
 `python run.py joke-generation`
 
 I trained joke generation model using GPT-2.
+Trained weight: https://drive.google.com/file/d/1-0ucSk3TW6HXkUSxnbJxhvAAiOIQDyLD/view?usp=sharing.
+Copy the weight in the ./LLM/trained_models.
 
 # Collaboration-Simulation
 
